@@ -67,9 +67,7 @@ print(f"Received {data!r}")
 
 
 # CLIENT :
-
 ![EH1 1](https://github.com/Gayathriraj18/Echoserver/assets/94154854/7c7a1d4a-9736-4ee6-8231-4cb9d3e16359)
-
 
 ## RESULT:
 The program is executed successfully.
